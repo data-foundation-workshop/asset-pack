@@ -1,0 +1,6 @@
+source_system,source_record_id,field_name,raw_value,rule_id,exception_reason
+CRM,sf-002,Email__c,12345@abc,CV1_RS_EMAIL_VALID,Invalid email pattern
+CRM,sf-001,Last_Purchase_Date__c,2028-08-20,CV1_RS_DATE_NOT_FUTURE,Future date
+CRM,sf-003,Phone__c,,CV1_RS_REQUIRED_IDENTITY,Required contact missing
+DBX,TXN-10002,amount,-200.00,CV1_RS_AMOUNT_NON_NEGATIVE,Negative amount
+DBX,TXN-10004,transaction_ts,2028-01-01,CV1_RS_DATE_NOT_FUTURE,Future date

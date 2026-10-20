@@ -1,0 +1,41 @@
+{
+  "event_type": "GoldenRecordUpserted",
+  "mdm_customer_id": "MDM-100001",
+  "golden_record_status": "Mastered",
+  "mastered": {
+    "full_name": "Sarah Jenkins",
+    "email": "sarah.j@enterprise.com",
+    "phone": "5550198",
+    "street": "123 Main St",
+    "city": "Austin",
+    "state": "TX",
+    "postal_code": "78701",
+    "country": "US",
+    "last_purchase_date": "2025-08-01",
+    "loyalty_tier": "Gold",
+    "consent_status": "Opted In"
+  },
+  "behavioral": {
+    "lifetime_value": 450.5,
+    "recent_interest": "Hiking Jackets"
+  },
+  "source_xrefs": [
+    {
+      "source_system": "CRM",
+      "source_record_id": "sf-001"
+    },
+    {
+      "source_system": "CRM",
+      "source_record_id": "sf-002"
+    },
+    {
+      "source_system": "CRM",
+      "source_record_id": "sf-003"
+    },
+    {
+      "source_system": "DBX",
+      "source_record_id": "WEB-1"
+    }
+  ],
+  "published_at": "2025-09-15T14:30:00Z"
+}

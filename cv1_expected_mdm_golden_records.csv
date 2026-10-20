@@ -1,0 +1,3 @@
+mdm_customer_id,full_name,email,phone,street,city,state,postal_code,country,last_purchase_date,loyalty_tier,consent_status,lifetime_value,recent_interest,source_record_ids
+MDM-100001,Sarah Jenkins,sarah.j@enterprise.com,5550198,123 Main St,Austin,TX,78701,US,2025-08-01,Gold,Opted In,450.50,Hiking Jackets,sf-001;sf-002;sf-003;WEB-1
+MDM-100002,Diego Martinez,diego.m@example.com,5551234,50 Oak Rd,Houston,TX,77002,US,2025-04-10,Silver,Opted In,75.00,Yoga Mats,sf-004;WEB-2

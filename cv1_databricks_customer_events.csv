@@ -1,0 +1,5 @@
+event_id,web_user_id,web_email,phone_hint,raw_location,event_ts,event_type,product_category,last_modified_ts
+ev-001,WEB-1,sarah.jenkins@gmail.com,5550198,Austin,2025-09-01T10:00:00,product_view,Hiking Jackets,2025-09-01T10:00:00
+ev-002,WEB-1,s.jenkins@enterprise.com,(555)0198,AUS,2025-09-02T11:00:00,add_to_cart,Hiking Jackets,2025-09-02T11:00:00
+ev-003,WEB-1,,,Austin,2025-09-03T12:00:00,page_view,Hiking Jackets,2025-09-03T12:00:00
+ev-004,WEB-2,diego.m@example.com,5551234,Houston,2025-09-04T09:00:00,product_view,Yoga Mats,2025-09-04T09:00:00

@@ -1,0 +1,5 @@
+Source_System__c,Source_Record_ID__c,Full_Name__c,Email__c,Phone__c,Street__c,City__c,State__c,Postal_Code__c,Country__c,Last_Purchase_Date__c,Loyalty_Tier__c,Consent_Status__c
+CRM,sf-001,Sarah Jenkins,sarah.j@enterprise.com,555-0198,123 Main St,Austin,TX,78701,US,2028-08-20,Gold,Opted In
+CRM,sf-002,S. Jenkins,12345@abc,(555) 0198,123 Main St,ATX,TX,78701,US,2025-03-15,Gold,Unknown
+CRM,sf-003,Sarah Jenkens,sarah.jenkins@gmail.com,,123 Main St,Austin,Texas,78701,USA,2025-08-01,,Opted In
+CRM,sf-004,Diego Martinez,diego.m@example.com,555-1234,50 Oak Rd,Houston,TX,77002,US,2025-04-10,Silver,Opted In
